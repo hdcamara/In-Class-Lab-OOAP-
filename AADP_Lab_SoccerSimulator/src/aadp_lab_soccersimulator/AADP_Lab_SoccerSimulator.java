@@ -16,11 +16,11 @@ import java.util.Scanner;
  * @author Sam
  * Please put the names and student numbers of the team here:
  * 
- * Name 1:
- * Number 1:
+ * Name 1:Enio Kelsio   
+ * Number 1:2021221
  * 
- * Name 2:
- * Number 2:
+ * Name 2:Helder Câmara
+ * Number 2:2021341
  * 
  * Name 3:
  * Number 3:
