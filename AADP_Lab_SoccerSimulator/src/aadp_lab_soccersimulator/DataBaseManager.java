@@ -9,5 +9,7 @@ package aadp_lab_soccersimulator;
  * @author eniomagalhaes
  */
 public class DataBaseManager {
+    private connection conn;
+    
     
 }
